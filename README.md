@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Haider Alyan 👋</h1>
-
 <p align="center">
-  <em>Software Developer • Open-Source Enthusiast • Lifelong Learner</em>
+  <img src="./assets/banner.svg" alt="Haider Alyan — Software Developer" width="100%" />
 </p>
 
 <p align="center">
